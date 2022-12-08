@@ -24,9 +24,9 @@ export default{
 <style scoped>
 
 .bookbox{
-    background-color: bisque;
+    background-color: rgb(196, 255, 248);
     padding: 1em;
-    color: gray;
+    color: rgb(128, 128, 128);
     margin: 5px;
     
 }

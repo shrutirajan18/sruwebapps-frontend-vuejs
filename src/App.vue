@@ -33,7 +33,7 @@ export default{
       }
     },
       methods:{
-        //promiss 
+        //fetchstock method to work in api
           async fetchStocks(){
           const res = await fetch ("https://sruthiapp-bestwebapps-andstock.herokuapp.com/api") // 
           const data = await res.json()
